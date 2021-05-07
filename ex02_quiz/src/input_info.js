@@ -22,7 +22,7 @@ class Input_p_info_t extends Compoent {
 	}
 }
 
-
+			
 class Input_p_info extends Component {
 	render() {
 		return (
